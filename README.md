@@ -1,7 +1,7 @@
 # Reference-Books-for-ML
 This is several reference books for ML that I think are useful for learning mathmatically basic of this field.
 
-These text books are from 
+These text books are from  
                           [CS229: Machine Learning - The Summer Edition!](https://cs229.stanford.edu/syllabus-summer2019.html)  
                           [Machine Learning](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)  
                           [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf)  
